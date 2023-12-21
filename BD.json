@@ -1,0 +1,89 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "rol": 1,
+      "name": "sachi",
+      "add": "bpl",
+      "fee": 333
+    },
+    {
+      "id": 2,
+      "rol": 2,
+      "name": "sachit",
+      "add": "ind",
+      "fee": 333
+    },
+    {
+      "id": 3,
+      "rol": 3,
+      "name": "pappu",
+      "add": "jbp",
+      "fee": 333
+    },
+    {
+      "id": 4,
+      "rol": 4,
+      "name": "lappu",
+      "add": "luc",
+      "fee": 333
+    },
+    {
+      "id": 5,
+      "rol": 5,
+      "name": "japhu",
+      "add": "gowli",
+      "fee": 333
+    },
+    {
+      "id": 6,
+      "rol": 6,
+      "name": "latu",
+      "add": "bngl",
+      "fee": 333
+    },
+    {
+      "rol": 12,
+      "name": "23",
+      "add": "312",
+      "fee": "234",
+      "id": 7
+    },
+    {
+      "rol": "123",
+      "name": "324",
+      "add": "3234",
+      "fee": "45354",
+      "id": 8
+    },
+    {
+      "rol": "2345",
+      "name": "435",
+      "add": "53645",
+      "fee": "65",
+      "id": 9
+    },
+    {
+      "rol": "1123",
+      "name": "deepu",
+      "add": "indore",
+      "fee": "500000",
+      "id": 10
+    },
+    {
+      "rol": "12",
+      "name": "123",
+      "add": "234",
+      "fee": "2345",
+      "id": 11
+    },
+    [],
+    {
+      "rol": "23",
+      "name": "345",
+      "add": "2354",
+      "fee": "345",
+      "id": 12
+    }
+  ]
+}
